@@ -15,5 +15,5 @@
 	
 	
 
-	$connection = mysqli_connect(HOST,USERNAME,PWD,DB);
+	$connection = mysqli_connect(SERVERNAME,USERNAME,PASSWORD,DBNAME);
 ?>
